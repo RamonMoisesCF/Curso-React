@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "name": "Projeto atualizado",
+      "budget": "1300",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1300,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "1fed4c53-0bb6-4dcd-a281-390b4b127755"
+        },
+        {
+          "name": "Meu novo serviço 2",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "8c16a16d-d519-4769-b964-57396b9cbce1"
+        },
+        {
+          "name": "Mais um serviço",
+          "cost": "1000",
+          "description": "Faz isso aqui",
+          "id": "ce9bb854-251d-4315-9520-b1aae0007a19"
+        },
+        {
+          "name": "Projeto Teste 123",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "15e6f890-c54d-4df5-860c-49ab709c8be5"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "Projeto Teste",
+      "budget": "1",
+      "cost": 1,
+      "services": [
+        {
+          "name": "Contratar dev jr",
+          "cost": "1",
+          "description": "Faz isso aqui",
+          "id": "36f147f4-fbf1-48e5-ba38-fd4ecea6c84b"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Ramon ",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1300,
+      "services": [
+        {
+          "name": "Contratar dev jr",
+          "cost": "1300",
+          "description": "FullStack",
+          "id": "4e275496-4219-481b-a5c8-5625cc0e45f7"
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
